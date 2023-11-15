@@ -58,13 +58,13 @@ This Line Encoder GUI is implemented using PySimpleGUI, Matplotlib, and NumPy. I
 2. Clone the repository:
 
     ```bash
-    git clone https://github.com/tusharv01/Line_Coder.git
+    git clone https://github.com/tusharv01/LINECODER.git
     ```
 
 3. Navigate to the project directory:
 
     ```bash
-    cd Line_Coder
+    cd LINECODER
     ```
 
 4. Run the main program:
