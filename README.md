@@ -83,6 +83,12 @@ This Line Encoder GUI is implemented using PySimpleGUI, Matplotlib, and NumPy. I
 
 5. Follow the on-screen prompts to input preferences for data generation, encoding, and scrambling.
 
+## Assumptions
+- All schemes are implemented using positive logic.
+- Manchester encoding uses IEEE (802.3) convention.
+- The format used is Manchester, and differential Manchester is G.E Thomas format
+- It is assumed that the user will give binary data to the encoder.
+  
 ## Connect with Me
 
 - **LinkedIn:** [Tushar Verma](https://www.linkedin.com/in/tusharverma01/)
