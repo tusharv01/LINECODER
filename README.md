@@ -39,17 +39,14 @@ This Line Encoder GUI is implemented using PySimpleGUI, Matplotlib, and NumPy. I
 
 ### Examples:
 
-#### Initializing the Input:
+#### Initializing the Input:![Screenshot from 2023-11-15 14-09-40](https://github.com/tusharv01/LINECODER/assets/93588934/28b3f0b3-fb34-4fed-ab25-6f63a6f633fb)
 
-![Screenshot from 2023-11-15 14-09-40](https://github.com/tusharv01/LINECODER/assets/93588934/336a26d5-63c7-49c1-b953-f13030a1f42d)
 
-#### Entering Custom Input:
+#### Entering Custom Input:![Screenshot from 2023-11-15 14-09-51](https://github.com/tusharv01/LINECODER/assets/93588934/e771462e-bf0d-446f-acbb-d2a1d9d0c340)
 
-![Screenshot from 2023-11-15 14-09-51](https://github.com/tusharv01/LINECODER/assets/93588934/117cd895-a843-4887-a721-713f1879fcfd)
 
-#### Encoding and Decoding:
+#### Encoding and Decoding:![Screenshot from 2023-11-15 14-12-23](https://github.com/tusharv01/LINECODER/assets/93588934/ad59e8dc-3fb3-4951-969c-3ab921c6fe20)
 
-![Screenshot from 2023-11-15 14-12-23](https://github.com/tusharv01/LINECODER/assets/93588934/b9061312-aa54-4c90-94b1-3d6d55adc3e9)
 
 
 ## How to Run the Code
